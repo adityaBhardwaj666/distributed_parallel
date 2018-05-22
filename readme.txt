@@ -1,8 +1,14 @@
-README :)
+Includes programs to calculate definte integrals using 
+ - Trapezium Rule
+ - Simpsons 1/3 Rule
+ 
+omp files are parallel implementation of the programs using openMP.
 
 
 
-1) omp_trap.c and omp_simpson.c are OpenMp programs. Working Fine. Use -lm in commands to link math function 
+1) omp_trap.c and omp_simpson.c are OpenMp programs. 
+   Use -lm in commands to link math function 
+
 
 2) For openMP execution use :
    
