@@ -1,4 +1,4 @@
-Includes programs to calculate definte integrals using 
+Includes programs to calculate definte integral of Sine function from [0,pie] using 
  - Trapezium Rule
  - Simpsons 1/3 Rule
  
